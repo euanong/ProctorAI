@@ -1,0 +1,8 @@
+# pixi environments
+.pixi
+*.egg-info
+.vscode
+.env
+screenshots/
+__pycache__
+settings.json
